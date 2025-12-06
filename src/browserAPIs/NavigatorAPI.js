@@ -1,4 +1,4 @@
-export default function NavigatorAPI( {setOutput}){
+export  function NavigatorAPI( {setOutput}){
     return (
         <button></button>
     )
