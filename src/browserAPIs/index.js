@@ -1,0 +1,26 @@
+export { DOMAPI } from "./DOMAPI.js";
+export { FetchAPI } from "./FetchAPI";
+export { LocalStorageAPI } from "./LocalStorageAPI";
+export { SessionStorageAPI } from "./SessionStorageAPI";
+export { CookiesAPI } from "./CookiesAPI.js";
+export { GeolocationAPI } from "./GeolocationAPI.js";
+export { ClipboardAPI } from "./ClipboardAPI";
+export { NotificationAPI } from "./NotificationAPI";
+export { BatteryAPI } from "./BatteryAPI";
+export { FullscreenAPI } from "./FullscreenAPI";
+export { HistoryAPI } from "./HistoryAPI";
+export { NavigatorAPI } from "./NavigatorAPI";
+export { SpeechSynthesisAPI } from "./SpeechSynthesisAPI";
+export { SpeechRecognitionAPI } from "./SpeechRecognitionAPI";
+export { WebSocketAPI } from "./WebSocketAPI";
+export { CanvasAPI } from "./CanvasAPI";
+export { IndexedDBAPI } from "./IndexedDBAPI.js";
+export { MutationObserverAPI } from "./MutationObserverAPI";
+export { IntersectionObserverAPI } from "./IntersectionObserverAPI";
+export { ResizeObserverAPI } from "./ResizeObserverAPI";
+export { MediaDevicesAPI } from "./MediaDevicesAPI";
+export { MediaRecorderAPI } from "./MediaRecorderAPI";
+export { AbortControllerAPI } from "./AbortControllerAPI";
+export { CryptoAPI } from "./CryptoAPI";
+export { URLAPI } from "./URLAPI";
+
